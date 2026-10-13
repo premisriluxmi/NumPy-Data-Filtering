@@ -42,7 +42,7 @@ Marks of 10 students:
 
 ## Results
 
-- Marks above 50: `[82 67 90 75 58 95 75]` (7 students)
+- Marks above 60: `[82 67 90 75 95 75]` (6 students)
 - Marks below 50: `[45 38]` (2 students: Arun, Sowmini)
 - Marks equal to 75: `[75 75]` (2 students: Rohitha, Arjun)
 
