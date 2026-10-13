@@ -1,4 +1,4 @@
-#  NumPy Data Filtering
+# NumPy Data Filtering
 
 This project demonstrates how to use NumPy conditions and Boolean indexing to filter student marks based on different thresholds.
 
@@ -35,16 +35,16 @@ Marks of 10 students:
 | Premi | 90 |
 | Sowmini | 38 |
 | Rohitha | 75 |
-| Keerthi | 58 |
-| Priya | 95 |
-| Vishal | 75 |
-| Meena | 50 |
+| Keerthana | 58 |
+| Yoga | 95 |
+| Arjun | 75 |
+| Anu | 50 |
 
 ## Results
 
 - Marks above 50: `[82 67 90 75 58 95 75]` (7 students)
 - Marks below 50: `[45 38]` (2 students: Arun, Sowmini)
-- Marks equal to 75: `[75 75]` (2 students: Rohitha, Vishal)
+- Marks equal to 75: `[75 75]` (2 students: Rohitha, Arjun)
 
 ### Different Thresholds
 
